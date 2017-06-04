@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+	background-color:#FFFFFF;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	width: 100%;
+	margin-top:20px;
+	margin-left: 20px;
+	margin-right: auto;
+}
+table {
+	width:100%;
+}
+
+table, td {
+
+}
